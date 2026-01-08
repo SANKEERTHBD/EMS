@@ -1,4 +1,4 @@
-package com.example.ems_backend.entity;
+package com.example.ems_backend.enums;
 
 public enum EmployeeStatus {
     CREATED,
