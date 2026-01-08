@@ -3,6 +3,8 @@ package com.example.ems_backend.entity;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+import com.example.ems_backend.enums.EmployeeStatus;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
